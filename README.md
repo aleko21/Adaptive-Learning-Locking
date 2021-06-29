@@ -18,6 +18,6 @@ The flow should work as follows:
 This plugin works on Moodle 2.x. The Research and Development team is searching partners in order to: 
 
 1. Test the plugin and its functionality
-2. Update the code and make it work with the new version of Moodle
+2. Update the code and make it works with the current version of Moodle
 
 Write an e-mail to alessandro.pagano@osel.it if you are interested in contributing
