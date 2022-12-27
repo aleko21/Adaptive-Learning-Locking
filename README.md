@@ -20,4 +20,4 @@ This plugin works on Moodle 2.x. The Research and Development team is searching 
 1. Test the plugin and its functionality
 2. Update the code and make it works with the current version of Moodle
 
-Write an e-mail to alessandro.pagano@osel.it if you are interested in contributing
+Write an e-mail to alessandro.pagano@uniba.it if you are interested in contributing
